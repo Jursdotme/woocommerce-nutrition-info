@@ -1,0 +1,257 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-13 14:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/general-settings.php:20 inc/product-tab.php:11
+msgid "Nutrients"
+msgstr ""
+
+#: inc/general-settings.php:49
+msgid "Nutrients Settings"
+msgstr ""
+
+#: inc/general-settings.php:55
+msgid "Title"
+msgstr ""
+
+#: inc/general-settings.php:57 inc/general-settings.php:64
+msgid "This is some helper text"
+msgstr ""
+
+#: inc/general-settings.php:59
+msgid "Nutritional Information"
+msgstr ""
+
+#: inc/general-settings.php:62
+msgid "Per volume text"
+msgstr ""
+
+#: inc/general-settings.php:66
+msgid "Content pr. 100 g"
+msgstr ""
+
+#: inc/general-settings.php:69
+msgid "Position"
+msgstr ""
+
+#: inc/general-settings.php:71
+msgid "Where to display the tabel."
+msgstr ""
+
+#: inc/general-settings.php:74
+msgid "Seperate tab"
+msgstr ""
+
+#: inc/general-settings.php:75
+msgid "In description tab"
+msgstr ""
+
+#: inc/general-settings.php:76
+msgid "After price"
+msgstr ""
+
+#: inc/general-settings.php:77
+msgid "After excerpt"
+msgstr ""
+
+#: inc/general-settings.php:78
+msgid "After \"Add to Cart\" button"
+msgstr ""
+
+#: inc/general-settings.php:79
+msgid "After product metadata"
+msgstr ""
+
+#: inc/general-settings.php:80
+msgid "Manual placement (hidden)"
+msgstr ""
+
+#: inc/general-settings.php:84
+msgid "Styling"
+msgstr ""
+
+#: inc/general-settings.php:86
+msgid "Include stylesheet."
+msgstr ""
+
+#: inc/product-single-settings.php:5
+msgid "Nutritional Info"
+msgstr ""
+
+#: inc/product-single-settings.php:22
+msgid "Energy"
+msgstr ""
+
+#: inc/product-single-settings.php:23
+msgid "(KJ/kcal)"
+msgstr ""
+
+#: inc/product-single-settings.php:25
+msgid "0 Kj / 0 kcal"
+msgstr ""
+
+#: inc/product-single-settings.php:30
+msgid "Fat"
+msgstr ""
+
+#: inc/product-single-settings.php:31 inc/product-single-settings.php:39
+#: inc/product-single-settings.php:47 inc/product-single-settings.php:55
+#: inc/product-single-settings.php:63 inc/product-single-settings.php:71
+#: inc/product-single-settings.php:79 inc/product-single-settings.php:87
+#: inc/product-single-settings.php:95 inc/product-single-settings.php:103
+#: inc/product-single-settings.php:111 inc/product-single-settings.php:119
+msgid "(gram)"
+msgstr ""
+
+#: inc/product-single-settings.php:33 inc/product-single-settings.php:41
+#: inc/product-single-settings.php:49 inc/product-single-settings.php:57
+#: inc/product-single-settings.php:65 inc/product-single-settings.php:73
+#: inc/product-single-settings.php:81 inc/product-single-settings.php:89
+#: inc/product-single-settings.php:97 inc/product-single-settings.php:105
+#: inc/product-single-settings.php:113
+msgid "0 g"
+msgstr ""
+
+#: inc/product-single-settings.php:38
+msgid "Saturated fatty acids"
+msgstr ""
+
+#: inc/product-single-settings.php:46
+msgid "Monounsaturated fatty acids"
+msgstr ""
+
+#: inc/product-single-settings.php:54
+msgid "Polyunsaturated fatty acids"
+msgstr ""
+
+#: inc/product-single-settings.php:62
+msgid "Carbohydrate"
+msgstr ""
+
+#: inc/product-single-settings.php:70
+msgid "Sugar"
+msgstr ""
+
+#: inc/product-single-settings.php:78
+msgid "Polyols"
+msgstr ""
+
+#: inc/product-single-settings.php:86
+msgid "Starch"
+msgstr ""
+
+#: inc/product-single-settings.php:94
+msgid "Dietary fiber"
+msgstr ""
+
+#: inc/product-single-settings.php:102
+msgid "Protein"
+msgstr ""
+
+#: inc/product-single-settings.php:110
+msgid "Salt"
+msgstr ""
+
+#: inc/product-single-settings.php:118
+msgid "Vitamins and minerals"
+msgstr ""
+
+#: inc/product-single-settings.php:121
+msgid "none"
+msgstr ""
+
+#: inc/product-tab.php:22
+msgid "New Product Tab"
+msgstr ""
+
+#: inc/template.php:21
+msgid "Nærringsindhold"
+msgstr ""
+
+#: inc/template.php:22
+msgid "pr. 100 g"
+msgstr ""
+
+#: inc/template.php:28
+msgid "Energi (KJ/kcal)"
+msgstr ""
+
+#: inc/template.php:33
+msgid "Fedt (g)"
+msgstr ""
+
+#: inc/template.php:38
+msgid "- heraf Mættede fedtsyrer (g)"
+msgstr ""
+
+#: inc/template.php:43
+msgid "- heraf Enkeltumættede fedtsyrer (g)"
+msgstr ""
+
+#: inc/template.php:48
+msgid "- heraf Flerumættede fedtsyrer (g)"
+msgstr ""
+
+#: inc/template.php:53
+msgid "Kulhydrat (g)"
+msgstr ""
+
+#: inc/template.php:58
+msgid "- heraf Sukkerarter (g)"
+msgstr ""
+
+#: inc/template.php:63
+msgid "- heraf Polyoler (g)"
+msgstr ""
+
+#: inc/template.php:68
+msgid "- heraf Stivelse (g)"
+msgstr ""
+
+#: inc/template.php:73
+msgid "Kostfibre (g)"
+msgstr ""
+
+#: inc/template.php:78
+msgid "Protein (g)"
+msgstr ""
+
+#: inc/template.php:83
+msgid "Salt (g)"
+msgstr ""
+
+#: inc/template.php:88
+msgid "Vitaminer og mineraler"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Nutrition Info"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display nutritional information on you woocommerce product pages."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://jurs.me"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rasmus Jürs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jurs.me/"
+msgstr ""
