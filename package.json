@@ -1,0 +1,37 @@
+{
+  "name": "woocommerce-nutrition-info",
+  "version": "0.0.1",
+  "description": "Display nutritional information on you woocommerce product pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --output-style expanded -o css sass",
+    "autoprefixer": "postcss -u autoprefixer --autoprefixer.browsers '&gt; 5%, ie 9' -r css/*",
+    "build:css": "npm run scss && npm run autoprefixer",
+    "watch:css": "onchange 'sass/*.scss' -- npm run build:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jursdotme/woocommerce-nutrition-info.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Woocommerce",
+    "shop",
+    "food",
+    "nutrition",
+    "plugin"
+  ],
+  "author": "Rasmus Jürs",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Jursdotme/woocommerce-nutrition-info/issues"
+  },
+  "homepage": "https://github.com/Jursdotme/woocommerce-nutrition-info#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "onchange": "^3.2.1",
+    "parallelshell": "^2.0.0",
+    "postcss-cli": "^4.1.0"
+  }
+}

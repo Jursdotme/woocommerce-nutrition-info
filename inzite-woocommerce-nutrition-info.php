@@ -26,7 +26,7 @@ include WNI_PLUGIN_PATH . 'inc/product-single-settings.php'; // Add nutrients ta
 include WNI_PLUGIN_PATH . 'inc/template.php'; // Nutrients display function
 include WNI_PLUGIN_PATH . 'inc/product-tab.php'; // Nutrients display function
 
-wp_enqueue_style( 'slider', WNI_PLUGIN_URL . '/styles.css',false,'1.1','all');
+wp_enqueue_style( 'slider', WNI_PLUGIN_URL . '/css/styles.css',false,'1.1','all');
 
 if (get_option( 'wc_nutrients_settings_tab_position' ) == 'after_product_summary') {
     add_action('woocommerce_single_product_summary', 'nutritionInfo', '45');
